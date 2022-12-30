@@ -1,3 +1,5 @@
+# Wistia Video Ripper
+
 Wistia Ripper is a file designed to be able to download wistia-hosted videos with a copy-pasted link from the thumbnail
 
 ## Installation
